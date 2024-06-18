@@ -1,0 +1,36 @@
+#styled-cell-text {
+    color: #080779;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+    /* Cambiar el tamaño del texto según sea necesario */
+}
+
+.content-container {
+    margin-bottom: -20px;
+}
+
+.bottom-bar {
+    border-bottom: 5px solid #080779;
+    margin-bottom: 50px;
+}
+
+.bg-green {
+    background-color: green;
+    color: rgb(13, 192, 117);
+}
+
+/* Estilo para filas con bg azul claro */
+.bg-light-blue {
+    background-color: #0b6baf !important;
+}
+
+/* Estilo para filas con bg gris claro */
+.bg-light-gray {
+    background-color: #cc1515 !important;
+}
+
+/* Estilo para el texto en negrita y color azul oscuro */
+.bold-blue {
+    font-weight: bold !important;
+    color: #1a237e !important;
+}
