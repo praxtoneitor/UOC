@@ -3,12 +3,9 @@
 /public/build
 /public/hot
 /public/storage
-/public/facturas/*
+/public/kk
 /storage/*.key
 /vendor
-.env
-.env.backup
-.env.production
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -18,6 +15,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-docker-entrypoint-initdb.d/tfg.sql
-vite.config.js_cris
-vite.config_cris.js
+
+
